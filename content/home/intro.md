@@ -1,6 +1,6 @@
 ---
 # Use the Intro widget of the Blog template
-widget: about.avatar
+widget: blank
 
 # This file represents a page section.
 headless: true
@@ -9,16 +9,15 @@ headless: true
 weight: 10
 
 author: admin
-#design:
-#  background:
-#    color: '#090a0b'
-#    text_color_light: true
-#    video:
-#      path:  # enter filename of a video in /assets/media
-#  css_class: fullscreen
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
 ---
 
-👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
-{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+# IKIM – the Institute for Artificial Intelligence in Medicine
 
-Check out my [resumé](/about/) and portfolio below 😍
+In 2019, the Institute for Artificial Intelligence in Medicine (IKIM) was one of the first in Germany to start work in this important field of innovation.
+ 
+Our special advantage: We work in close cooperation with the established classical medical disciplines. This is because we are part of the Medical Faculty of the University of Duisburg Essen and the University Hospital Essen and are thus integrated into an excellent scientific environment. An absolute location advantage of our institute. And the IKIM was equipped with five newly established professorships right from the start.
+
+Learn more about our research groups:
